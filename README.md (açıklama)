@@ -1,0 +1,12 @@
+# G-MODE Core
+
+Minimal, modüler, mobil-öncelikli galaktik arayüz çekirdeği.
+
+## Yapı
+- index.html
+- styles.css
+- script.js
+
+## Amaç
+Bu repo çekirdektir.
+Stil, animasyon, nabız ve diğer sistemler modül olarak eklenecektir.
