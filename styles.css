@@ -1,0 +1,31 @@
+body {
+  margin: 0;
+  background: #02040a;
+  color: #cfe6ff;
+  font-family: system-ui, -apple-system, sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.app {
+  text-align: center;
+}
+
+button {
+  margin-top: 20px;
+  padding: 12px 28px;
+  border-radius: 999px;
+  border: none;
+  background: #a8d8ff;
+  color: #02040a;
+  font-weight: 600;
+  cursor: pointer;
+}
+
+#status {
+  margin-top: 12px;
+  font-size: 12px;
+  letter-spacing: 0.2em;
+}
