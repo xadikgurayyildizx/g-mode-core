@@ -1,9 +1,0 @@
-const btn = document.getElementById("gToggle");
-const status = document.getElementById("status");
-
-let active = false;
-
-btn.addEventListener("click", () => {
-  active = !active;
-  status.textContent = active ? "AKTİF" : "STANDBY";
-});
